@@ -1,2 +1,2 @@
 # pure_api_01
-pure_api_stuff
+scripts for Pure Storage API general functions
